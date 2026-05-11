@@ -1,0 +1,1212 @@
+2025-08-20 20:31:23
+{"update_id":599994635,
+"message":{"message_id":1364,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755721882,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-20 20:31:23
+{"update_id":599994635,
+"message":{"message_id":1364,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755721882,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @Engine\_Host\_Owner
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7631090802
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}],[{"text":"\ud83c\udf10 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24"}],[{"text":"\ud83d\udc64 \ud835\udc00\ud835\udc1d\ud835\udc1d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"},{"text":"\ud83d\udc64 \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udd0d \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c"},{"text":"\ud83d\udc65 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d"}],[{"text":"\ud83d\udcdc \ud835\udc12\ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2c"}],[{"text":"\ud83d\udd0d \ud835\udc12\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83c\udf0d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc29"}],[{"text":"\ud83e\udd1d \ud835\udc12\ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83e\udd16 \ud835\udc00\ud835\udc08 \ud835\udc05\ud835\udc2b\ud835\udc1a\ud835\udc2e\ud835\udc1d \ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27"}],[{"text":"\ud83d\udd00 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc1e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udcf1 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc08\ud835\udc03\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1365,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755721883,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @Engine_Host_Owner\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7631090802\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":18,"type":"mention"},{"offset":133,"length":13,"type":"url"}]}}
+
+2025-08-20 20:31:25
+{"update_id":599994636,
+"message":{"message_id":1366,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755721885,"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"}}
+
+2025-08-20 20:31:25
+{"update_id":599994636,
+"message":{"message_id":1366,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755721885,"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🔐 *𝐘𝐨𝐮𝐫 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲𝐬:*
+
+🔑 *𝐊𝐞𝐲 #1*
+🆔 *𝐊𝐞𝐲:* `Raj-1-zvyVw`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 1 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Jun, 2025 · 08:10
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 11 Jun, 2025 · 09:10
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #2*
+🆔 *𝐊𝐞𝐲:* `ENGINE-5-PweR5`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 50
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Jun, 2025 · 03:11
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 12 Jun, 2025 · 08:11
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #3*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2160-3X06R`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2160 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Jun, 2025 · 23:41
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 10 Sep, 2025 · 23:41
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #4*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-mJqLc`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025 · 17:56
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 14 Jun, 2026 · 17:56
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #5*
+🆔 *𝐊𝐞𝐲:* `Engine-24-H7ZR8`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025 · 17:59
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 15 Jun, 2025 · 17:59
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #6*
+🆔 *𝐊𝐞𝐲:* `Engine-8760-fcilg`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025 · 19:04
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 14 Jun, 2026 · 19:04
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #7*
+🆔 *𝐊𝐞𝐲:* `Ayush-8760-GoJBX`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025 · 08:02
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 16 Jun, 2026 · 08:02
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #8*
+🆔 *𝐊𝐞𝐲:* `ENGINE-2-T8N1c`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 30
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025 · 12:05
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 16 Jun, 2025 · 14:05
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #9*
+🆔 *𝐊𝐞𝐲:* `AYUSH-8760-FJamM`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025 · 18:45
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 16 Jun, 2026 · 18:45
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #10*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-YLerX`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 19 Jun, 2025 · 14:30
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 22 Jun, 2025 · 14:30
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #11*
+🆔 *𝐊𝐞𝐲:* `Raj-1-HrD9J`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 1 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025 · 15:43
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 20 Jun, 2025 · 16:43
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #12*
+🆔 *𝐊𝐞𝐲:* `Raj-24-X0E97`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025 · 15:45
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 21 Jun, 2025 · 15:45
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #13*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-k2GqI`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025 · 16:05
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 20 Jun, 2026 · 16:05
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #14*
+🆔 *𝐊𝐞𝐲:* `SRISHTI-2-rLVEv`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025 · 20:34
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 20 Jun, 2025 · 22:34
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #15*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-7A4DW`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 22 Jun, 2025 · 13:43
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 25 Jun, 2025 · 13:43
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #16*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-r5sTf`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 28 Jun, 2025 · 12:27
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 01 Jul, 2025 · 12:27
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #17*
+🆔 *𝐊𝐞𝐲:* `Test-2-hJsfC`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 01 Jul, 2025 · 12:40
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 01 Jul, 2025 · 14:40
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #18*
+🆔 *𝐊𝐞𝐲:* `AYUSH-168-96wQe`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 168 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 04 Jul, 2025 · 14:35
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 11 Jul, 2025 · 14:35
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #19*
+🆔 *𝐊𝐞𝐲:* `AYUSH-8760-Zwdzs`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jul, 2025 · 07:48
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 16 Jul, 2026 · 07:48
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #20*
+🆔 *𝐊𝐞𝐲:* `TESTINGZERO-72-vWG8U`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 3
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jul, 2025 · 19:16
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 19 Jul, 2025 · 19:16
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #21*
+🆔 *𝐊𝐞𝐲:* `PRIVATE-8760-SIylk`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 18 Jul, 2025 · 07:24
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 18 Jul, 2026 · 07:24
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #22*
+🆔 *𝐊𝐞𝐲:* `CNxENGINE-5-XSclu`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 200
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 23 Jul, 2025 · 11:50
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 23 Jul, 2025 · 16:50
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #23*
+🆔 *𝐊𝐞𝐲:* `AYUJS-8760-IJSlK`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 23 Jul, 2025 · 13:55
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 23 Jul, 2026 · 13:55
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #24*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-omrWZ`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 01 Aug, 2025 · 05:38
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 01 Aug, 2026 · 05:38
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #25*
+🆔 *𝐊𝐞𝐲:* `EBSVIA-2-vBrbI`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 05 Aug, 2025 · 09:45
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 05 Aug, 2025 · 11:45
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #26*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-HZzis`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 05 Aug, 2025 · 15:23
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 05 Aug, 2026 · 15:23
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #27*
+🆔 *𝐊𝐞𝐲:* `Enagine-2-mA2GQ`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 07 Aug, 2025 · 03:51
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 07 Aug, 2025 · 05:51
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #28*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2880-rZP8a`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2880 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 100
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 08 Aug, 2025 · 15:49
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 06 Dec, 2025 · 15:49
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #29*
+🆔 *𝐊𝐞𝐲:* `ENGINE-5-2yOAt`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 09 Aug, 2025 · 05:11
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 09 Aug, 2025 · 10:11
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #30*
+🆔 *𝐊𝐞𝐲:* `LOADER-2-QD4lc`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 09 Aug, 2025 · 08:40
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 09 Aug, 2025 · 10:40
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #31*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2-h0P9o`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 10 Aug, 2025 · 13:54
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 10 Aug, 2025 · 15:54
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #32*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-054Yp`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Aug, 2025 · 14:51
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 11 Aug, 2025 · 19:51
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #33*
+🆔 *𝐊𝐞𝐲:* `Raju-2-MnwcT`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Aug, 2025 · 19:39
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 11 Aug, 2025 · 21:39
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #34*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-SG6Xr`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 5
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Aug, 2025 · 07:46
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 12 Aug, 2025 · 12:46
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #35*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-KJfcb`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 5
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Aug, 2025 · 13:42
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 12 Aug, 2025 · 18:42
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #36*
+🆔 *𝐊𝐞𝐲:* `AYUSH-24-Cs4Bp`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Aug, 2025 · 21:34
+⏳ *𝐄𝐱𝐩𝐢𝐫𝐲:* 17 Aug, 2025 · 21:34
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":false,"error_code":400,"description":"Bad Request: message is too long"}
+
+2025-08-20 20:40:01
+{"update_id":599994637,
+"message":{"message_id":1367,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722400,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-20 20:40:01
+{"update_id":599994637,
+"message":{"message_id":1367,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722400,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @Engine\_Host\_Owner
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7631090802
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}],[{"text":"\ud83c\udf10 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24"}],[{"text":"\ud83d\udc64 \ud835\udc00\ud835\udc1d\ud835\udc1d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"},{"text":"\ud83d\udc64 \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udd0d \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c"},{"text":"\ud83d\udc65 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d"}],[{"text":"\ud83d\udcdc \ud835\udc12\ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2c"}],[{"text":"\ud83d\udd0d \ud835\udc12\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83c\udf0d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc29"}],[{"text":"\ud83e\udd1d \ud835\udc12\ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83e\udd16 \ud835\udc00\ud835\udc08 \ud835\udc05\ud835\udc2b\ud835\udc1a\ud835\udc2e\ud835\udc1d \ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27"}],[{"text":"\ud83d\udd00 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc1e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udcf1 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc08\ud835\udc03\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1368,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722401,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @Engine_Host_Owner\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7631090802\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":18,"type":"mention"},{"offset":133,"length":13,"type":"url"}]}}
+
+2025-08-20 20:40:03
+{"update_id":599994638,
+"message":{"message_id":1369,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722403,"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"}}
+
+2025-08-20 20:40:03
+{"update_id":599994638,
+"message":{"message_id":1369,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722403,"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🔐 *𝐘𝐨𝐮𝐫 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲𝐬:*
+
+🔑 *𝐊𝐞𝐲 #1*
+🆔 *𝐊𝐞𝐲:* `AYUSH-24-Cs4Bp`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #2*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-KJfcb`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 5
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #3*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-SG6Xr`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 5
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #4*
+🆔 *𝐊𝐞𝐲:* `Raju-2-MnwcT`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #5*
+🆔 *𝐊𝐞𝐲:* `AYUSH-5-054Yp`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #6*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2-h0P9o`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 10 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #7*
+🆔 *𝐊𝐞𝐲:* `LOADER-2-QD4lc`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 09 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #8*
+🆔 *𝐊𝐞𝐲:* `ENGINE-5-2yOAt`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 09 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #9*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2880-rZP8a`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2880 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 100
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 08 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #10*
+🆔 *𝐊𝐞𝐲:* `Enagine-2-mA2GQ`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 07 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #11*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-HZzis`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 05 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1370,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722404,"text":"\ud83d\udd10 \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c:\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #1\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-24-Cs4Bp\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 24 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #2\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-5-KJfcb\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 5\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 12 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #3\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-5-SG6Xr\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 5\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 12 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #4\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Raju-2-MnwcT\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 11 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #5\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-5-054Yp\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 2\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 11 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #6\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-2-h0P9o\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 10 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #7\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: LOADER-2-QD4lc\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 2\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 09 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #8\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-5-2yOAt\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 09 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #9\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-2880-rZP8a\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2880 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 100\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 08 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #10\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Enagine-2-mA2GQ\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 07 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #11\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-8760-HZzis\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 05 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501","entities":[{"offset":3,"length":33,"type":"bold"},{"offset":41,"length":9,"type":"bold"},{"offset":54,"length":7,"type":"bold"},{"offset":62,"length":14,"type":"code"},{"offset":80,"length":17,"type":"bold"},{"offset":110,"length":22,"type":"bold"},{"offset":138,"length":15,"type":"bold"},{"offset":170,"length":13,"type":"bold"},{"offset":186,"length":14,"type":"bold"},{"offset":221,"length":9,"type":"bold"},{"offset":234,"length":7,"type":"bold"},{"offset":242,"length":13,"type":"code"},{"offset":259,"length":17,"type":"bold"},{"offset":288,"length":22,"type":"bold"},{"offset":316,"length":15,"type":"bold"},{"offset":348,"length":13,"type":"bold"},{"offset":364,"length":14,"type":"bold"},{"offset":399,"length":9,"type":"bold"},{"offset":412,"length":7,"type":"bold"},{"offset":420,"length":13,"type":"code"},{"offset":437,"length":17,"type":"bold"},{"offset":466,"length":22,"type":"bold"},{"offset":494,"length":15,"type":"bold"},{"offset":526,"length":13,"type":"bold"},{"offset":542,"length":14,"type":"bold"},{"offset":577,"length":9,"type":"bold"},{"offset":590,"length":7,"type":"bold"},{"offset":598,"length":12,"type":"code"},{"offset":614,"length":17,"type":"bold"},{"offset":643,"length":22,"type":"bold"},{"offset":671,"length":15,"type":"bold"},{"offset":703,"length":13,"type":"bold"},{"offset":719,"length":14,"type":"bold"},{"offset":754,"length":9,"type":"bold"},{"offset":767,"length":7,"type":"bold"},{"offset":775,"length":13,"type":"code"},{"offset":792,"length":17,"type":"bold"},{"offset":821,"length":22,"type":"bold"},{"offset":849,"length":15,"type":"bold"},{"offset":881,"length":13,"type":"bold"},{"offset":897,"length":14,"type":"bold"},{"offset":932,"length":9,"type":"bold"},{"offset":945,"length":7,"type":"bold"},{"offset":953,"length":13,"type":"code"},{"offset":970,"length":17,"type":"bold"},{"offset":999,"length":22,"type":"bold"},{"offset":1027,"length":15,"type":"bold"},{"offset":1059,"length":13,"type":"bold"},{"offset":1075,"length":14,"type":"bold"},{"offset":1110,"length":9,"type":"bold"},{"offset":1123,"length":7,"type":"bold"},{"offset":1131,"length":14,"type":"code"},{"offset":1149,"length":17,"type":"bold"},{"offset":1178,"length":22,"type":"bold"},{"offset":1206,"length":15,"type":"bold"},{"offset":1238,"length":13,"type":"bold"},{"offset":1254,"length":14,"type":"bold"},{"offset":1289,"length":9,"type":"bold"},{"offset":1302,"length":7,"type":"bold"},{"offset":1310,"length":14,"type":"code"},{"offset":1328,"length":17,"type":"bold"},{"offset":1357,"length":22,"type":"bold"},{"offset":1385,"length":15,"type":"bold"},{"offset":1417,"length":13,"type":"bold"},{"offset":1433,"length":14,"type":"bold"},{"offset":1468,"length":9,"type":"bold"},{"offset":1481,"length":7,"type":"bold"},{"offset":1489,"length":16,"type":"code"},{"offset":1509,"length":17,"type":"bold"},{"offset":1541,"length":22,"type":"bold"},{"offset":1571,"length":15,"type":"bold"},{"offset":1603,"length":13,"type":"bold"},{"offset":1619,"length":12,"type":"bold"},{"offset":1652,"length":10,"type":"bold"},{"offset":1666,"length":7,"type":"bold"},{"offset":1674,"length":15,"type":"code"},{"offset":1693,"length":17,"type":"bold"},{"offset":1722,"length":22,"type":"bold"},{"offset":1750,"length":15,"type":"bold"},{"offset":1782,"length":13,"type":"bold"},{"offset":1798,"length":14,"type":"bold"},{"offset":1833,"length":10,"type":"bold"},{"offset":1847,"length":7,"type":"bold"},{"offset":1855,"length":17,"type":"code"},{"offset":1876,"length":17,"type":"bold"},{"offset":1908,"length":22,"type":"bold"},{"offset":1937,"length":15,"type":"bold"},{"offset":1969,"length":13,"type":"bold"},{"offset":1985,"length":12,"type":"bold"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🔐 *𝐘𝐨𝐮𝐫 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲𝐬 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐝):*
+
+🔑 *𝐊𝐞𝐲 #12*
+🆔 *𝐊𝐞𝐲:* `EBSVIA-2-vBrbI`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 05 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #13*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-omrWZ`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 01 Aug, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #14*
+🆔 *𝐊𝐞𝐲:* `AYUJS-8760-IJSlK`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 23 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #15*
+🆔 *𝐊𝐞𝐲:* `CNxENGINE-5-XSclu`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 200
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 23 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #16*
+🆔 *𝐊𝐞𝐲:* `PRIVATE-8760-SIylk`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 18 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #17*
+🆔 *𝐊𝐞𝐲:* `TESTINGZERO-72-vWG8U`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 3
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #18*
+🆔 *𝐊𝐞𝐲:* `AYUSH-8760-Zwdzs`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #19*
+🆔 *𝐊𝐞𝐲:* `AYUSH-168-96wQe`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 168 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 04 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #20*
+🆔 *𝐊𝐞𝐲:* `Test-2-hJsfC`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 01 Jul, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #21*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-r5sTf`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 28 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #22*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-7A4DW`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 22 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1371,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722405,"text":"\ud83d\udd10 \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c (\ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc2e\ud835\udc1e\ud835\udc1d):\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #12\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: EBSVIA-2-vBrbI\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 05 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #13\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-8760-omrWZ\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 2\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 01 Aug, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #14\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUJS-8760-IJSlK\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 23 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #15\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: CNxENGINE-5-XSclu\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 200\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 23 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #16\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: PRIVATE-8760-SIylk\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 18 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #17\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: TESTINGZERO-72-vWG8U\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 72 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 3\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #18\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-8760-Zwdzs\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #19\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-168-96wQe\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 168 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 04 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #20\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Test-2-hJsfC\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 01 Jul, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #21\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-72-r5sTf\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 72 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 28 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #22\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-72-7A4DW\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 72 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 22 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501","entities":[{"offset":3,"length":54,"type":"bold"},{"offset":62,"length":10,"type":"bold"},{"offset":76,"length":7,"type":"bold"},{"offset":84,"length":14,"type":"code"},{"offset":102,"length":17,"type":"bold"},{"offset":131,"length":22,"type":"bold"},{"offset":159,"length":15,"type":"bold"},{"offset":191,"length":13,"type":"bold"},{"offset":207,"length":14,"type":"bold"},{"offset":242,"length":10,"type":"bold"},{"offset":256,"length":7,"type":"bold"},{"offset":264,"length":17,"type":"code"},{"offset":285,"length":17,"type":"bold"},{"offset":317,"length":22,"type":"bold"},{"offset":345,"length":15,"type":"bold"},{"offset":377,"length":13,"type":"bold"},{"offset":393,"length":12,"type":"bold"},{"offset":426,"length":10,"type":"bold"},{"offset":440,"length":7,"type":"bold"},{"offset":448,"length":16,"type":"code"},{"offset":468,"length":17,"type":"bold"},{"offset":500,"length":22,"type":"bold"},{"offset":529,"length":15,"type":"bold"},{"offset":561,"length":13,"type":"bold"},{"offset":577,"length":12,"type":"bold"},{"offset":610,"length":10,"type":"bold"},{"offset":624,"length":7,"type":"bold"},{"offset":632,"length":17,"type":"code"},{"offset":653,"length":17,"type":"bold"},{"offset":682,"length":22,"type":"bold"},{"offset":712,"length":15,"type":"bold"},{"offset":744,"length":13,"type":"bold"},{"offset":760,"length":14,"type":"bold"},{"offset":795,"length":10,"type":"bold"},{"offset":809,"length":7,"type":"bold"},{"offset":817,"length":18,"type":"code"},{"offset":839,"length":17,"type":"bold"},{"offset":871,"length":22,"type":"bold"},{"offset":900,"length":15,"type":"bold"},{"offset":932,"length":13,"type":"bold"},{"offset":948,"length":12,"type":"bold"},{"offset":981,"length":10,"type":"bold"},{"offset":995,"length":7,"type":"bold"},{"offset":1003,"length":20,"type":"code"},{"offset":1027,"length":17,"type":"bold"},{"offset":1057,"length":22,"type":"bold"},{"offset":1085,"length":15,"type":"bold"},{"offset":1117,"length":13,"type":"bold"},{"offset":1133,"length":14,"type":"bold"},{"offset":1168,"length":10,"type":"bold"},{"offset":1182,"length":7,"type":"bold"},{"offset":1190,"length":16,"type":"code"},{"offset":1210,"length":17,"type":"bold"},{"offset":1242,"length":22,"type":"bold"},{"offset":1271,"length":15,"type":"bold"},{"offset":1303,"length":13,"type":"bold"},{"offset":1319,"length":12,"type":"bold"},{"offset":1352,"length":10,"type":"bold"},{"offset":1366,"length":7,"type":"bold"},{"offset":1374,"length":15,"type":"code"},{"offset":1393,"length":17,"type":"bold"},{"offset":1424,"length":22,"type":"bold"},{"offset":1452,"length":15,"type":"bold"},{"offset":1484,"length":13,"type":"bold"},{"offset":1500,"length":14,"type":"bold"},{"offset":1535,"length":10,"type":"bold"},{"offset":1549,"length":7,"type":"bold"},{"offset":1557,"length":12,"type":"code"},{"offset":1573,"length":17,"type":"bold"},{"offset":1602,"length":22,"type":"bold"},{"offset":1630,"length":15,"type":"bold"},{"offset":1662,"length":13,"type":"bold"},{"offset":1678,"length":14,"type":"bold"},{"offset":1713,"length":10,"type":"bold"},{"offset":1727,"length":7,"type":"bold"},{"offset":1735,"length":14,"type":"code"},{"offset":1753,"length":17,"type":"bold"},{"offset":1783,"length":22,"type":"bold"},{"offset":1811,"length":15,"type":"bold"},{"offset":1843,"length":13,"type":"bold"},{"offset":1859,"length":14,"type":"bold"},{"offset":1894,"length":10,"type":"bold"},{"offset":1908,"length":7,"type":"bold"},{"offset":1916,"length":14,"type":"code"},{"offset":1934,"length":17,"type":"bold"},{"offset":1964,"length":22,"type":"bold"},{"offset":1992,"length":15,"type":"bold"},{"offset":2024,"length":13,"type":"bold"},{"offset":2040,"length":14,"type":"bold"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🔐 *𝐘𝐨𝐮𝐫 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲𝐬 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐝):*
+
+🔑 *𝐊𝐞𝐲 #23*
+🆔 *𝐊𝐞𝐲:* `SRISHTI-2-rLVEv`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #24*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-k2GqI`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #25*
+🆔 *𝐊𝐞𝐲:* `Raj-24-X0E97`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #26*
+🆔 *𝐊𝐞𝐲:* `Raj-1-HrD9J`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 1 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 20 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #27*
+🆔 *𝐊𝐞𝐲:* `AYUSH-72-YLerX`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 72 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 19 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #28*
+🆔 *𝐊𝐞𝐲:* `AYUSH-8760-FJamM`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #29*
+🆔 *𝐊𝐞𝐲:* `ENGINE-2-T8N1c`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 30
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #30*
+🆔 *𝐊𝐞𝐲:* `Ayush-8760-GoJBX`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 16 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #31*
+🆔 *𝐊𝐞𝐲:* `Engine-8760-fcilg`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #32*
+🆔 *𝐊𝐞𝐲:* `Engine-24-H7ZR8`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 24 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 1
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #33*
+🆔 *𝐊𝐞𝐲:* `ENGINE-8760-mJqLc`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 8760 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 14 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1372,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722405,"text":"\ud83d\udd10 \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c (\ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc2e\ud835\udc1e\ud835\udc1d):\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #23\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: SRISHTI-2-rLVEv\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 20 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #24\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-8760-k2GqI\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 20 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #25\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Raj-24-X0E97\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 24 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 20 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #26\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Raj-1-HrD9J\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 1 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 20 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #27\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-72-YLerX\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 72 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 19 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #28\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-8760-FJamM\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #29\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-2-T8N1c\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 30\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #30\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Ayush-8760-GoJBX\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 16 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #31\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Engine-8760-fcilg\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 14 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #32\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Engine-24-H7ZR8\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 24 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 14 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #33\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-8760-mJqLc\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 8760 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 14 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501","entities":[{"offset":3,"length":54,"type":"bold"},{"offset":62,"length":10,"type":"bold"},{"offset":76,"length":7,"type":"bold"},{"offset":84,"length":15,"type":"code"},{"offset":103,"length":17,"type":"bold"},{"offset":132,"length":22,"type":"bold"},{"offset":160,"length":15,"type":"bold"},{"offset":192,"length":13,"type":"bold"},{"offset":208,"length":14,"type":"bold"},{"offset":243,"length":10,"type":"bold"},{"offset":257,"length":7,"type":"bold"},{"offset":265,"length":17,"type":"code"},{"offset":286,"length":17,"type":"bold"},{"offset":318,"length":22,"type":"bold"},{"offset":347,"length":15,"type":"bold"},{"offset":379,"length":13,"type":"bold"},{"offset":395,"length":12,"type":"bold"},{"offset":428,"length":10,"type":"bold"},{"offset":442,"length":7,"type":"bold"},{"offset":450,"length":12,"type":"code"},{"offset":466,"length":17,"type":"bold"},{"offset":496,"length":22,"type":"bold"},{"offset":524,"length":15,"type":"bold"},{"offset":556,"length":13,"type":"bold"},{"offset":572,"length":14,"type":"bold"},{"offset":607,"length":10,"type":"bold"},{"offset":621,"length":7,"type":"bold"},{"offset":629,"length":11,"type":"code"},{"offset":644,"length":17,"type":"bold"},{"offset":673,"length":22,"type":"bold"},{"offset":701,"length":15,"type":"bold"},{"offset":733,"length":13,"type":"bold"},{"offset":749,"length":14,"type":"bold"},{"offset":784,"length":10,"type":"bold"},{"offset":798,"length":7,"type":"bold"},{"offset":806,"length":14,"type":"code"},{"offset":824,"length":17,"type":"bold"},{"offset":854,"length":22,"type":"bold"},{"offset":883,"length":15,"type":"bold"},{"offset":915,"length":13,"type":"bold"},{"offset":931,"length":14,"type":"bold"},{"offset":966,"length":10,"type":"bold"},{"offset":980,"length":7,"type":"bold"},{"offset":988,"length":16,"type":"code"},{"offset":1008,"length":17,"type":"bold"},{"offset":1040,"length":22,"type":"bold"},{"offset":1069,"length":15,"type":"bold"},{"offset":1101,"length":13,"type":"bold"},{"offset":1117,"length":12,"type":"bold"},{"offset":1150,"length":10,"type":"bold"},{"offset":1164,"length":7,"type":"bold"},{"offset":1172,"length":14,"type":"code"},{"offset":1190,"length":17,"type":"bold"},{"offset":1219,"length":22,"type":"bold"},{"offset":1248,"length":15,"type":"bold"},{"offset":1280,"length":13,"type":"bold"},{"offset":1296,"length":14,"type":"bold"},{"offset":1331,"length":10,"type":"bold"},{"offset":1345,"length":7,"type":"bold"},{"offset":1353,"length":16,"type":"code"},{"offset":1373,"length":17,"type":"bold"},{"offset":1405,"length":22,"type":"bold"},{"offset":1434,"length":15,"type":"bold"},{"offset":1466,"length":13,"type":"bold"},{"offset":1482,"length":12,"type":"bold"},{"offset":1515,"length":10,"type":"bold"},{"offset":1529,"length":7,"type":"bold"},{"offset":1537,"length":17,"type":"code"},{"offset":1558,"length":17,"type":"bold"},{"offset":1590,"length":22,"type":"bold"},{"offset":1618,"length":15,"type":"bold"},{"offset":1650,"length":13,"type":"bold"},{"offset":1666,"length":12,"type":"bold"},{"offset":1699,"length":10,"type":"bold"},{"offset":1713,"length":7,"type":"bold"},{"offset":1721,"length":15,"type":"code"},{"offset":1740,"length":17,"type":"bold"},{"offset":1770,"length":22,"type":"bold"},{"offset":1798,"length":15,"type":"bold"},{"offset":1830,"length":13,"type":"bold"},{"offset":1846,"length":14,"type":"bold"},{"offset":1881,"length":10,"type":"bold"},{"offset":1895,"length":7,"type":"bold"},{"offset":1903,"length":17,"type":"code"},{"offset":1924,"length":17,"type":"bold"},{"offset":1956,"length":22,"type":"bold"},{"offset":1985,"length":15,"type":"bold"},{"offset":2017,"length":13,"type":"bold"},{"offset":2033,"length":12,"type":"bold"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🔐 *𝐘𝐨𝐮𝐫 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲𝐬 (𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐝):*
+
+🔑 *𝐊𝐞𝐲 #34*
+🆔 *𝐊𝐞𝐲:* `AYUSH-2160-3X06R`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 2160 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 10
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ✅ *𝐀𝐜𝐭𝐢𝐯𝐞*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #35*
+🆔 *𝐊𝐞𝐲:* `ENGINE-5-PweR5`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 5 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 50
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 12 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+🔑 *𝐊𝐞𝐲 #36*
+🆔 *𝐊𝐞𝐲:* `Raj-1-zvyVw`
+⏱️ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:* 1 Hours
+📲 *𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬:* 2
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝:* 11 Jun, 2025
+📌 *𝐒𝐭𝐚𝐭𝐮𝐬:* ❌ *𝐄𝐱𝐩𝐢𝐫𝐞𝐝*
+━━━━━━━━━━━━━━━
+
+
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1373,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755722406,"text":"\ud83d\udd10 \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c (\ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc2e\ud835\udc1e\ud835\udc1d):\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #34\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: AYUSH-2160-3X06R\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 2160 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 10\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 12 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #35\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: ENGINE-5-PweR5\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 5 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 50\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 12 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd11 \ud835\udc0a\ud835\udc1e\ud835\udc32 #36\n\ud83c\udd94 \ud835\udc0a\ud835\udc1e\ud835\udc32: Raj-1-zvyVw\n\u23f1\ufe0f \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 1 Hours\n\ud83d\udcf2 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 2\n\ud83d\udcc5 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d: 11 Jun, 2025\n\ud83d\udccc \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c: \u274c \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501","entities":[{"offset":3,"length":54,"type":"bold"},{"offset":62,"length":10,"type":"bold"},{"offset":76,"length":7,"type":"bold"},{"offset":84,"length":16,"type":"code"},{"offset":104,"length":17,"type":"bold"},{"offset":136,"length":22,"type":"bold"},{"offset":165,"length":15,"type":"bold"},{"offset":197,"length":13,"type":"bold"},{"offset":213,"length":12,"type":"bold"},{"offset":246,"length":10,"type":"bold"},{"offset":260,"length":7,"type":"bold"},{"offset":268,"length":14,"type":"code"},{"offset":286,"length":17,"type":"bold"},{"offset":315,"length":22,"type":"bold"},{"offset":344,"length":15,"type":"bold"},{"offset":376,"length":13,"type":"bold"},{"offset":392,"length":14,"type":"bold"},{"offset":427,"length":10,"type":"bold"},{"offset":441,"length":7,"type":"bold"},{"offset":449,"length":11,"type":"code"},{"offset":464,"length":17,"type":"bold"},{"offset":493,"length":22,"type":"bold"},{"offset":521,"length":15,"type":"bold"},{"offset":553,"length":13,"type":"bold"},{"offset":569,"length":14,"type":"bold"}]}}
+
+2025-08-21 10:45:04
+{"update_id":599994639,
+"message":{"message_id":1374,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773096,"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+2025-08-21 10:45:04
+{"update_id":599994639,
+"message":{"message_id":1374,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773096,"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => 🔄 𝐏𝐥𝐞𝐚𝐬𝐞 𝐄𝐧𝐭𝐞𝐫 𝐓𝐡𝐞 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐑𝐞𝐬𝐞𝐭:
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1376,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773104,"text":"\ud83d\udd04 \ud835\udc0f\ud835\udc25\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc1e \ud835\udc04\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc18\ud835\udc28\ud835\udc2e \ud835\udc16\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc13\ud835\udc28 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d:"}}
+
+2025-08-21 10:45:17
+{"update_id":599994640,
+"message":{"message_id":1375,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773101,"text":"6260778794","entities":[{"offset":0,"length":10,"type":"phone_number"}]}}
+
+2025-08-21 10:45:17
+{"update_id":599994640,
+"message":{"message_id":1375,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773101,"text":"6260778794","entities":[{"offset":0,"length":10,"type":"phone_number"}]}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => ❌ 𝐊𝐞𝐲 𝐍𝐨𝐭 𝐅𝐨𝐮𝐧𝐝 𝐎𝐫 𝐘𝐨𝐮 𝐃𝐨𝐧'𝐭 𝐇𝐚𝐯𝐞 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐓𝐨 𝐑𝐞𝐬𝐞𝐭 𝐈𝐭.
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1378,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773117,"text":"\u274c \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc0d\ud835\udc28\ud835\udc2d \ud835\udc05\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc0e\ud835\udc2b \ud835\udc18\ud835\udc28\ud835\udc2e \ud835\udc03\ud835\udc28\ud835\udc27'\ud835\udc2d \ud835\udc07\ud835\udc1a\ud835\udc2f\ud835\udc1e \ud835\udc0f\ud835\udc1e\ud835\udc2b\ud835\udc26\ud835\udc22\ud835\udc2c\ud835\udc2c\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc13\ud835\udc28 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc08\ud835\udc2d."}}
+
+2025-08-21 10:45:23
+{"update_id":599994641,
+"message":{"message_id":1377,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773111,"text":"MOHANOP"}}
+
+2025-08-21 10:45:23
+{"update_id":599994641,
+"message":{"message_id":1377,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773111,"text":"MOHANOP"}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+2025-08-21 10:45:25
+{"update_id":599994642,
+"message":{"message_id":1379,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773121,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-21 10:45:25
+{"update_id":599994642,
+"message":{"message_id":1379,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773121,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @MOHAN\_OP
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 5071287623
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1380,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773126,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @MOHAN_OP\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 5071287623\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":9,"type":"mention"},{"offset":124,"length":13,"type":"url"}]}}
+
+2025-08-21 10:45:32
+{"update_id":599994643,
+"message":{"message_id":1381,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773130,"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+2025-08-21 10:45:32
+{"update_id":599994643,
+"message":{"message_id":1381,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773130,"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => 🔄 𝐏𝐥𝐞𝐚𝐬𝐞 𝐄𝐧𝐭𝐞𝐫 𝐓𝐡𝐞 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐑𝐞𝐬𝐞𝐭:
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1382,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773132,"text":"\ud83d\udd04 \ud835\udc0f\ud835\udc25\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc1e \ud835\udc04\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc18\ud835\udc28\ud835\udc2e \ud835\udc16\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc13\ud835\udc28 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d:"}}
+
+2025-08-21 10:45:47
+{"update_id":599994644,
+"message":{"message_id":1383,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773145,"text":"MOHANOP"}}
+
+2025-08-21 10:45:47
+{"update_id":599994644,
+"message":{"message_id":1383,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773145,"text":"MOHANOP"}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => ❌ 𝐊𝐞𝐲 𝐍𝐨𝐭 𝐅𝐨𝐮𝐧𝐝 𝐎𝐫 𝐘𝐨𝐮 𝐃𝐨𝐧'𝐭 𝐇𝐚𝐯𝐞 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐓𝐨 𝐑𝐞𝐬𝐞𝐭 𝐈𝐭.
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1384,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755773147,"text":"\u274c \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc0d\ud835\udc28\ud835\udc2d \ud835\udc05\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc0e\ud835\udc2b \ud835\udc18\ud835\udc28\ud835\udc2e \ud835\udc03\ud835\udc28\ud835\udc27'\ud835\udc2d \ud835\udc07\ud835\udc1a\ud835\udc2f\ud835\udc1e \ud835\udc0f\ud835\udc1e\ud835\udc2b\ud835\udc26\ud835\udc22\ud835\udc2c\ud835\udc2c\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc13\ud835\udc28 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc08\ud835\udc2d."}}
+
+2025-08-22 06:23:54
+{"update_id":599994645,
+"message":{"message_id":1385,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755843833,"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+2025-08-22 06:23:54
+{"update_id":599994645,
+"message":{"message_id":1385,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755843833,"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => 📆 *𝐂𝐡𝐨𝐨𝐬𝐞 𝐊𝐞𝐲 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:*
+    [parse_mode] => Markdown
+    [reply_markup] => {"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1386,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1755843834,"text":"\ud83d\udcc6 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:","entities":[{"offset":3,"length":37,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}}}
+
+2025-08-23 16:39:11
+{"update_id":599994646,
+"message":{"message_id":1387,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755967151,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-23 16:39:11
+{"update_id":599994646,
+"message":{"message_id":1387,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755967151,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @Engine\_Host\_Owner
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7631090802
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}],[{"text":"\ud83c\udf10 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24"}],[{"text":"\ud83d\udc64 \ud835\udc00\ud835\udc1d\ud835\udc1d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"},{"text":"\ud83d\udc64 \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udd0d \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c"},{"text":"\ud83d\udc65 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d"}],[{"text":"\ud83d\udcdc \ud835\udc12\ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2c"}],[{"text":"\ud83d\udd0d \ud835\udc12\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83c\udf0d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc29"}],[{"text":"\ud83e\udd1d \ud835\udc12\ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83e\udd16 \ud835\udc00\ud835\udc08 \ud835\udc05\ud835\udc2b\ud835\udc1a\ud835\udc2e\ud835\udc1d \ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27"}],[{"text":"\ud83d\udd00 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc1e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udcf1 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc08\ud835\udc03\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1388,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1755967151,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @Engine_Host_Owner\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7631090802\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":18,"type":"mention"},{"offset":133,"length":13,"type":"url"}]}}
+
+2025-08-25 16:28:11
+{"update_id":599994647,
+"message":{"message_id":1389,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756139291,"text":"/adduser 7194534820","entities":[{"offset":0,"length":8,"type":"bot_command"},{"offset":9,"length":10,"type":"phone_number"}]}}
+
+2025-08-25 16:28:11
+{"update_id":599994647,
+"message":{"message_id":1389,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en","is_premium":true},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756139291,"text":"/adduser 7194534820","entities":[{"offset":0,"length":8,"type":"bot_command"},{"offset":9,"length":10,"type":"phone_number"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => ⚠️ 𝐔𝐬𝐞𝐫 7194534820 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐄𝐱𝐢𝐬𝐭𝐬 𝐈𝐧 𝐓𝐡𝐞 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞.
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1390,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756139292,"text":"\u26a0\ufe0f \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b 7194534820 \ud835\udc00\ud835\udc25\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc1d\ud835\udc32 \ud835\udc04\ud835\udc31\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc2c \ud835\udc08\ud835\udc27 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a\ud835\udc1b\ud835\udc1a\ud835\udc2c\ud835\udc1e."}}
+
+2025-08-25 16:28:15
+{"update_id":599994648,
+"message":{"message_id":1391,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139295,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-25 16:28:15
+{"update_id":599994648,
+"message":{"message_id":1391,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139295,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @illusionHax
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7194534820
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1392,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139296,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @illusionHax\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7194534820\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":12,"type":"mention"},{"offset":127,"length":13,"type":"url"}]}}
+
+2025-08-25 16:28:26
+{"update_id":599994649,
+"message":{"message_id":1393,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139306,"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+2025-08-25 16:28:26
+{"update_id":599994649,
+"message":{"message_id":1393,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139306,"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => 📆 *𝐂𝐡𝐨𝐨𝐬𝐞 𝐊𝐞𝐲 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧:*
+    [parse_mode] => Markdown
+    [reply_markup] => {"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1394,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139306,"text":"\ud83d\udcc6 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:","entities":[{"offset":3,"length":37,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}}}
+
+2025-08-25 16:28:29
+{"update_id":599994650,
+"callback_query":{"id":"3230175655129633401","from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"message":{"message_id":1394,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139306,"text":"\ud83d\udcc6 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:","entities":[{"offset":3,"length":37,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}},"chat_instance":"-53418922636743495","data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"}}
+
+2025-08-25 16:28:29
+{"update_id":599994650,
+"callback_query":{"id":"3230175655129633401","from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"message":{"message_id":1394,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139306,"text":"\ud83d\udcc6 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:","entities":[{"offset":3,"length":37,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd0 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"},{"text":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c","callback_data":"\ud835\udfd3 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c"}],[{"text":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32","callback_data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"},{"text":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd5 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd2 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd4\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd7\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd0\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}],[{"text":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfcf\ud835\udfd6\ud835\udfce \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"},{"text":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c","callback_data":"\ud835\udfd1\ud835\udfd4\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc32\ud835\udc2c"}]]}},"chat_instance":"-53418922636743495","data":"\ud835\udfcf \ud835\udc03\ud835\udc1a\ud835\udc32"}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => 𝐇𝐨𝐰 𝐌𝐚𝐧𝐲 𝐃𝐞𝐯𝐢𝐜𝐞𝐬 𝐃𝐨 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐡𝐞 𝐊𝐞𝐲 𝐅𝐨𝐫? 
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1395,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139309,"text":"\ud835\udc07\ud835\udc28\ud835\udc30 \ud835\udc0c\ud835\udc1a\ud835\udc27\ud835\udc32 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c \ud835\udc03\ud835\udc28 \ud835\udc18\ud835\udc28\ud835\udc2e \ud835\udc16\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc05\ud835\udc28\ud835\udc2b?"}}
+
+2025-08-25 16:28:34
+{"update_id":599994651,
+"message":{"message_id":1396,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139313,"text":"1"}}
+
+2025-08-25 16:28:34
+{"update_id":599994651,
+"message":{"message_id":1396,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139313,"text":"1"}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => 📝 𝐏𝐥𝐞𝐚𝐬𝐞 𝐄𝐧𝐭𝐞𝐫 𝐓𝐡𝐞 𝐍𝐚𝐦𝐞 𝐓𝐨 𝐔𝐬𝐞 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐊𝐞𝐲 (𝐄𝐱𝐚𝐦𝐩𝐥𝐞: *𝐄𝐍𝐆𝐈𝐍𝐄*):
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1397,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139314,"text":"\ud83d\udcdd \ud835\udc0f\ud835\udc25\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc1e \ud835\udc04\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0d\ud835\udc1a\ud835\udc26\ud835\udc1e \ud835\udc13\ud835\udc28 \ud835\udc14\ud835\udc2c\ud835\udc1e \ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32 (\ud835\udc04\ud835\udc31\ud835\udc1a\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e: \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04):","entities":[{"offset":95,"length":12,"type":"bold"}]}}
+
+2025-08-25 16:28:45
+{"update_id":599994652,
+"message":{"message_id":1398,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139325,"text":"Loaded"}}
+
+2025-08-25 16:28:45
+{"update_id":599994652,
+"message":{"message_id":1398,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139325,"text":"Loaded"}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => 🔰 𝐆𝐚𝐦𝐞: 𝐁𝐆𝐌𝐈
+⏳ 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧: 24 𝐇𝐨𝐮𝐫𝐬
+🔑 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 𝐊𝐞𝐲: `Loaded-24-IUihs`
+📱 𝐌𝐚𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬: 1
+📅 𝐄𝐱𝐩𝐢𝐫𝐲: 26 Aug, 2025 · 04:28 PM
+
+⏱ 𝐍𝐨𝐭𝐞: 𝐓𝐢𝐦𝐞 𝐒𝐭𝐚𝐫𝐭𝐬 𝐎𝐧𝐥𝐲 𝐖𝐡𝐞𝐧 𝐓𝐡𝐞 𝐊𝐞𝐲 𝐈𝐬 𝐅𝐢𝐫𝐬𝐭 𝐔𝐬𝐞𝐝.
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1399,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139325,"text":"\ud83d\udd30 \ud835\udc06\ud835\udc1a\ud835\udc26\ud835\udc1e: \ud835\udc01\ud835\udc06\ud835\udc0c\ud835\udc08\n\u23f3 \ud835\udc03\ud835\udc2e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: 24 \ud835\udc07\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c\n\ud83d\udd11 \ud835\udc0b\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc27\ud835\udc2c\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32: Loaded-24-IUihs\n\ud83d\udcf1 \ud835\udc0c\ud835\udc1a\ud835\udc31 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e\ud835\udc2c: 1\n\ud83d\udcc5 \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc32: 26 Aug, 2025 \u00b7 04:28 PM\n\n\u23f1 \ud835\udc0d\ud835\udc28\ud835\udc2d\ud835\udc1e: \ud835\udc13\ud835\udc22\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc2c \ud835\udc0e\ud835\udc27\ud835\udc25\ud835\udc32 \ud835\udc16\ud835\udc21\ud835\udc1e\ud835\udc27 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc08\ud835\udc2c \ud835\udc05\ud835\udc22\ud835\udc2b\ud835\udc2c\ud835\udc2d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc1d.","entities":[{"offset":82,"length":15,"type":"code"}]}}
+
+2025-08-25 16:29:05
+{"update_id":599994653,
+"message":{"message_id":1400,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139345,"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}}
+
+2025-08-25 16:29:05
+{"update_id":599994653,
+"message":{"message_id":1400,"from":{"id":7194534820,"is_bot":false,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","language_code":"en","is_premium":true},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139345,"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}}
+
+Checking Access For: [7194534820]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+DB value: [ANDROIDENGINE]
+DB value: [Venom]
+DB value: [CNXAYUSH]
+DB value: [Jhskkwjnmkh]
+DB value: [UICHECK]
+DB value: [Rishi]
+DB value: [7194534820]
+CURL SEND: Array
+(
+    [chat_id] => 7194534820
+    [text] => *𝐁𝐨𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 :-* [@Engine_Host_Owner](https://t.me/Engine_Host_Owner)
+    [parse_mode] => Markdown
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1401,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7194534820,"first_name":"\ud80c\udda9\ud835\udddc\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\udddb\ud835\uddee\ud835\ude05\ud80c\uddaa","last_name":"Fast Response (Active)","username":"illusionHax","type":"private"},"date":1756139346,"text":"\ud835\udc01\ud835\udc28\ud835\udc2d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b :- @Engine_Host_Owner","entities":[{"offset":0,"length":28,"type":"bold"},{"offset":29,"length":18,"type":"text_link","url":"https://t.me/Engine_Host_Owner"}],"link_preview_options":{"url":"https://t.me/Engine_Host_Owner"}}}
+
+2025-08-27 05:46:05
+{"update_id":599994654,
+"message":{"message_id":1402,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273437,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-27 05:46:05
+{"update_id":599994654,
+"message":{"message_id":1402,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273437,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @Engine\_Host\_Owner
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7631090802
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}],[{"text":"\ud83c\udf10 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24"}],[{"text":"\ud83d\udc64 \ud835\udc00\ud835\udc1d\ud835\udc1d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"},{"text":"\ud83d\udc64 \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udd0d \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c"},{"text":"\ud83d\udc65 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d"}],[{"text":"\ud83d\udcdc \ud835\udc12\ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2c"}],[{"text":"\ud83d\udd0d \ud835\udc12\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83c\udf0d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc29"}],[{"text":"\ud83e\udd1d \ud835\udc12\ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83e\udd16 \ud835\udc00\ud835\udc08 \ud835\udc05\ud835\udc2b\ud835\udc1a\ud835\udc2e\ud835\udc1d \ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27"}],[{"text":"\ud83d\udd00 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc1e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udcf1 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc08\ud835\udc03\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1404,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273565,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @Engine_Host_Owner\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7631090802\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":18,"type":"mention"},{"offset":133,"length":13,"type":"url"}]}}
+
+2025-08-27 05:46:06
+{"update_id":599994655,
+"message":{"message_id":1403,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273524,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-27 05:46:06
+{"update_id":599994655,
+"message":{"message_id":1403,"from":{"id":7631090802,"is_bot":false,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","language_code":"en"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273524,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+CURL SEND: Array
+(
+    [chat_id] => 7631090802
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @Engine\_Host\_Owner
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 7631090802
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}],[{"text":"\ud83c\udf10 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24"}],[{"text":"\ud83d\udc64 \ud835\udc00\ud835\udc1d\ud835\udc1d \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"},{"text":"\ud83d\udc64 \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udd0d \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c"},{"text":"\ud83d\udc65 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d"}],[{"text":"\ud83d\udcdc \ud835\udc12\ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc14\ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2c"}],[{"text":"\ud83d\udd0d \ud835\udc12\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83c\udf0d \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc29"}],[{"text":"\ud83e\udd1d \ud835\udc12\ud835\udc21\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83e\udd16 \ud835\udc00\ud835\udc08 \ud835\udc05\ud835\udc2b\ud835\udc1a\ud835\udc2e\ud835\udc1d \ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27"}],[{"text":"\ud83d\udd00 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc1e\ud835\udc2b \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udcf1 \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc08\ud835\udc03\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1405,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":7631090802,"first_name":"\ud835\udc00\ud835\udc0d\ud835\udc03\ud835\udc11\ud835\udc0e\ud835\udc08\ud835\udc03","last_name":"\ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04","username":"Engine_Host_Owner","type":"private"},"date":1756273566,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @Engine_Host_Owner\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 7631090802\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":18,"type":"mention"},{"offset":133,"length":13,"type":"url"}]}}
+
+2025-08-27 14:45:33
+{"update_id":599994656,
+"message":{"message_id":1406,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1756305932,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2025-08-27 14:45:33
+{"update_id":599994656,
+"message":{"message_id":1406,"from":{"id":5071287623,"is_bot":false,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","language_code":"en"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1756305932,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+Checking Access For: [5071287623]
+DB value: [ENGINEHOST]
+DB value: [SDFSUKOON]
+DB value: [AYUSHENGINE]
+DB value: [6237694107]
+DB value: [5071287623]
+CURL SEND: Array
+(
+    [chat_id] => 5071287623
+    [text] => 🎯 𝐄𝐍𝐆𝐈𝐍𝐄 𝐏𝐀𝐍𝐄𝐋
+
+👑 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐒𝐢𝐫: @MOHAN\_OP
+🆔 𝐂𝐡𝐚𝐭 𝐈𝐃: 5071287623
+
+🔗 𝐕𝐢𝐬𝐢𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: enginehost.in
+
+📲 𝐂𝐡𝐨𝐨𝐬𝐞 𝐀𝐧 𝐎𝐩𝐭𝐢𝐨𝐧 𝐁𝐞𝐥𝐨𝐰.
+    [parse_mode] => Markdown
+    [reply_markup] => {"keyboard":[[{"text":"\ud83d\udd11 \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\uddd1\ufe0f \ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\ud83d\udd04 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udeab \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc1c\ud835\udc24 \ud835\udc0a\ud835\udc1e\ud835\udc32"},{"text":"\u2705 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc0a\ud835\udc1e\ud835\udc32"}],[{"text":"\ud83d\udccb \ud835\udc0c\ud835\udc32 \ud835\udc0a\ud835\udc1e\ud835\udc32\ud835\udc2c"},{"text":"\ud83d\udcca \ud835\udc0a\ud835\udc1e\ud835\udc32 \ud835\udc14\ud835\udc2c\ud835\udc1a\ud835\udc20\ud835\udc1e"}],[{"text":"\ud83c\udd94 \ud835\udc0c\ud835\udc32 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03"},{"text":"\ud83d\udc68\u200d\ud83d\udcbb \ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b"}],[{"text":"\ud83d\udcd6 \ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc2c"}]],"resize_keyboard":true,"one_time_keyboard":false}
+)
+
+RESPONSE: {"ok":true,"result":{"message_id":1407,"from":{"id":7944802516,"is_bot":true,"first_name":"ENGINE KEYGEN","username":"Engine_KeyGenbot"},"chat":{"id":5071287623,"first_name":"\ud835\ude48\ud835\ude4a\ud835\ude43\ud835\ude3c\ud835\ude49\ud81a\udcd8\ud835\ude4a\ud835\ude4b","username":"MOHAN_OP","type":"private"},"date":1756305933,"text":"\ud83c\udfaf \ud835\udc04\ud835\udc0d\ud835\udc06\ud835\udc08\ud835\udc0d\ud835\udc04 \ud835\udc0f\ud835\udc00\ud835\udc0d\ud835\udc04\ud835\udc0b\n\n\ud83d\udc51 \ud835\udc16\ud835\udc1e\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc12\ud835\udc22\ud835\udc2b: @MOHAN_OP\n\ud83c\udd94 \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc08\ud835\udc03: 5071287623\n\n\ud83d\udd17 \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc22\ud835\udc2d \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1e: enginehost.in\n\n\ud83d\udcf2 \ud835\udc02\ud835\udc21\ud835\udc28\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc00\ud835\udc27 \ud835\udc0e\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc01\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc30.","entities":[{"offset":54,"length":9,"type":"mention"},{"offset":124,"length":13,"type":"url"}]}}
+

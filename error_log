@@ -1,0 +1,32 @@
+[07-Sep-2025 11:33:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'imdaduro'@'localhost' (using password: YES) in /home/pnlpro/jalwa.pnlpro.xyz/db.php on line 8
+[07-Sep-2025 11:33:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'imdaduro'@'localhost' (using password: YES) in /home/pnlpro/jalwa.pnlpro.xyz/db.php on line 8
+[07-Sep-2025 17:04:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:04:29 Asia/Kolkata] PHP Warning:  move_uploaded_file(TumharaPapaRAVAN/DARK_KI_MAA.so): failed to open stream: No such file or directory in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 34
+[07-Sep-2025 17:04:29 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzmTRW6' to 'TumharaPapaRAVAN/DARK_KI_MAA.so' in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 34
+[07-Sep-2025 17:06:00 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:06:00 Asia/Kolkata] PHP Warning:  move_uploaded_file(TumharaPapaRAVAN/libAYUSH.so): failed to open stream: No such file or directory in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 34
+[07-Sep-2025 17:06:00 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqhA9xC' to 'TumharaPapaRAVAN/libAYUSH.so' in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 34
+[07-Sep-2025 17:07:52 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:09:34 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:10:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:13:58 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:18:58 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:19:44 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:21:10 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 17:21:56 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/pnlpro/jalwa.pnlpro.xyz/file_upload.php on line 20
+[07-Sep-2025 12:05:08 UTC] PHP Notice:  Undefined variable: BaseURL in /home/pnlpro/jalwa.pnlpro.xyz/EXTEND_KEYS_DURATIONS.php on line 6
+[07-Sep-2025 12:05:10 UTC] PHP Notice:  Undefined variable: BaseURL in /home/pnlpro/jalwa.pnlpro.xyz/EXTEND_KEYS_DURATIONS.php on line 6
+[07-Sep-2025 21:45:55 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/android/api.androidengine.xyz/file_upload.php on line 20
+[07-Sep-2025 21:46:18 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/android/api.androidengine.xyz/file_upload.php on line 20
+[07-Sep-2025 22:02:55 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/android/api.androidengine.xyz/file_upload.php on line 17
+[07-Sep-2025 22:02:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/android/api.androidengine.xyz/file_upload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/android/api.androidengine.xyz/file_upload.php on line 58
+[29-Oct-2025 16:10:47 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant STDOUT - assumed 'STDOUT' (this will throw an Error in a future version of PHP) in /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/CLI/CLI.php:159
+Stack trace:
+#0 /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/CLI/CLI.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/modkeyst/...', 159, Array)
+#1 /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/CLI/CLI.php(998): CodeIgniter\CLI\CLI::init()
+#2 /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(264): include_once('/home/modkeyst/...')
+#3 /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/modkeyst/...')
+#4 /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloa in /home/modkeyst/reddragon.modkey.store/vendor/codeigniter4/framework/system/CLI/CLI.php on line 159
